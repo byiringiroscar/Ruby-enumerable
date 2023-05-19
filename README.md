@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>Morse Code Decoder 🚀</b></h3>
+  <h3><b>Ruby Enumerable  🚀</b></h3>
 </div>
 
 # 📗 Table of Contents
@@ -25,7 +25,7 @@
 
 # 📖  Code Enumerable <a name="about-project"></a>
 
-<b> Morse Code Decoder</b> is a simple ruby application for checking the method and return the specified response
+<b> Enumerald </b> is a simple ruby application developed to help understand ruby modules.
 
 ## 🛠 Built With <a name="built-with"></a>
 
